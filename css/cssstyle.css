@@ -1,0 +1,440 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    /* overflow-y: auto;
+    overflow-x: hidden; */
+
+}
+
+.bg-color {
+    background-color: black;
+}
+
+.container {
+    width: 1150px;
+    margin: 0 auto;
+}
+
+.row {
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.justify-containt {
+    justify-content: space-between;
+
+}
+
+.alighn {
+    align-items: center;
+}
+
+.text ul li {
+    display: inline-block;
+    padding: 10px;
+    color: white;
+}
+
+.text ul li a {
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+
+}
+
+.loggo img {
+    width: 80px;
+    padding: 9px 0;
+    /* margin-left: 50px; */
+
+}
+
+.icon i {
+    color: white;
+}
+
+.bg-img {
+    position: relative;
+
+}
+
+.bg-img {
+    width: 100%;
+}
+
+.img img {
+    margin-top: -5.5rem;
+    width: 100%;
+    margin-bottom: -4px;
+}
+
+.header-text {
+    position: absolute;
+    top: 0;
+}
+
+.header-text h1 {
+    margin-top: 12.5rem;
+    font-size: 4rem;
+    font-family: "Oswald";
+    color: white;
+}
+
+.header-text p {
+    width: 40%;
+    color: white;
+    padding: 1rem 0rem;
+}
+
+.header-text button {
+    color: white;
+    background-color: orangered;
+    padding: .5rem 1.6rem;
+
+}
+
+
+.bg-color1 {
+    background-color: orangered;
+    color: white;
+    padding-bottom: 3rem;
+}
+
+.text1 {
+    margin: 3rem auto;
+    text-align: center;
+
+}
+
+/* .col {
+    width: 100%;
+} */
+
+.text1 h2 {
+    font-size: 2.5rem;
+    /* text-align: center; */
+}
+
+.text1 p {
+    width: 55%;
+    margin: 0 auto;
+    padding-top: 1rem;
+}
+
+/* .col-33 {
+    width: 30%;
+    margin: 0 auto;
+} */
+.img1 img {
+    width: 100%;
+}
+
+.texyy {
+    margin-top: -5px;
+    margin-top: 0 auto;
+    background-color: rgba(64, 58, 58, 0.995);
+
+}
+
+.texyy h3 {
+    text-align: center;
+    padding-top: 9px;
+
+}
+
+.texyy p {
+    background-color: rgb(63, 59, 59);
+    padding: 0.6rem;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+.bg-color2 {
+    background-color: black;
+    color: white;
+    padding-bottom: 3rem;
+}
+
+.text2 {
+    margin: 3rem auto;
+    text-align: center;
+
+}
+
+.col {
+    width: 100%;
+}
+
+.text2 h2 {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.text2 p {
+    width: 55%;
+    margin: 0 auto;
+    padding-top: 1rem;
+}
+
+.col-333 {
+    width: 30%;
+    margin: 0 auto;
+    padding: 40px;
+    border: 2px solid white;
+    background-color: orangered;
+
+    align-items: center;
+
+}
+
+.img2 img {
+    width: 40%;
+    margin: 0 73PX;
+    margin-right: 30px;
+    justify-content: center;
+    /* background-color: orangered; */
+}
+
+.texyy2 {
+    /* margin-top: -5px; */
+    /* margin-top: 80  px; */
+    /* background-color: rgba(64, 58, 58, 0.995); */
+
+}
+
+.texyy2 h3 {
+    text-align: center;
+    padding: 10px 0;
+
+}
+
+.texyy2 p {
+    /* background-color: rgb(63, 59, 59); */
+    padding: 0.6rem;
+}
+
+.texyy2 a {
+    color: white;
+    background-color: black;
+    /* width: 320px; */
+    align-items: center;
+    /* align-items: center; */
+    width: 30%;
+    margin: 0 auto;
+}
+
+.col-50 {
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+
+}
+
+.col-50 img {
+    /* width: 100%; */
+}
+
+.hidden {
+    overflow: hidden;
+}
+
+.img img {
+    width: 100%;
+}
+
+.bgcolor3 {
+    background-color: orangered;
+}
+
+.hidden {
+    overflow: hidden;
+}
+
+.text22 {
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.text22 h2 {
+    font-size: 3rem;
+}
+
+.text22 p {
+    width: 80%;
+    font-size: 18px;
+    line-height: 20px;
+    padding: 30px 0 30px 0;
+}
+
+.text22 button {
+    border: none;
+    color: #fff;
+    background-color: #222;
+    padding: 10px 40px;
+}
+
+.bg-blck {
+    background-color: #222;
+    color: white;
+}
+
+.texyy11 h3 {
+    font-size: 50px;
+    font-weight: bold;
+    /* margin-top: 3rem; */
+    /* margin-bottom: 3rem; */
+}
+
+.texyy11 {
+    margin-top: 5rem;
+    margin-bottom: 200px;
+    text-align: center;
+}
+
+.image {
+    position: relative;
+    top: 0;
+}
+
+.h-text {
+    position: absolute;
+    top: 0;
+    margin-top: 200px;
+    /* margin: 3rem auto; */
+    text-align: center;
+}
+
+.h-text p {
+    width: 60%;
+    color: rgb(214, 202, 202);
+    margin: 0 auto;
+    font-size: 25px;
+    /* text-align: center; */
+    /* padding: 1rem 0rem; */
+
+}
+
+.h-text h2 {
+    color: white;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.bgc-org {
+    background-color: orangered;
+    align-items: center;
+
+}
+
+.TT {
+    margin: 70px auto;
+    text-align: center;
+}
+
+.TT h2 {
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.TT p {
+    color: white;
+    align-items: center;
+    font-size: 15px;
+    margin-top: 15px;
+    width: 80%;
+    margin-left: 100px;
+    font-family: 'Lucid/a Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.t-box input {
+    padding: .5rem 70px;
+    margin-top: 20px;
+    /* margin: 1rem; */
+
+}
+
+.ftr-color {
+    background-color: #222;
+    color: white;
+    padding: 80px 50px;
+}
+
+.ftr-txt h3 {
+    font-size: 30px;
+}
+
+.ftr-txt p {
+    padding-top: 1rem;
+    width: 70%;
+}
+
+.cl-50 {
+    display: flex;
+
+    /* font-family: ; */
+}
+
+.cl-50 h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cl-50 li {
+    padding-top: 10px;
+    margin-top: 10px;
+    color: rgb(190, 211, 230);
+}
+
+.ftr-icn i {
+    padding: 20px 5px;
+    /* border-radius:50px solid white;  */
+
+}
+
+@media(min-width:320px) {
+    .container {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    [class*="col-"] {
+        width: 100%;
+    }
+
+}
+
+
+/* desktop size */
+
+@media(min-width:768px) {
+    .container {
+        width: 100%;
+    }
+
+    .col-50 {
+        width: 50%;
+    }
+
+    .col-333 {
+        width: 30%;
+    }
+
+    .col-33 {
+        width: 30%;
+        margin: 0 auto;
+    }
+
+}
+
+@media(min-width:992px) {}
